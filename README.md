@@ -9,7 +9,7 @@
 * [Technologies](#technologies)
 
 ## GitHub-Repository
-[Repo](https://github.com/HaYaDa/landing-pagev2)#
+[Repo](https://github.com/HaYaDa/landing-pagev2)
 
 ## Demo of Project
 [Landing Page Demo](https://hayada.github.io/landing-pagev2/)
