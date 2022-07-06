@@ -2,12 +2,28 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [GitHub-Repository](#githubRepository)
+* [Demo of Project](#demoOfProject)
+* [Project Name](#projectName)
+* [Project Description](#projectDescription)
+* [Technologies](#technologies)
 
-## Instructions
+## GitHub-Repository
+[Repo](https://github.com/HaYaDa/landing-pagev2)#
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Demo of Project
+[Landing Page Demo](https://hayada.github.io/landing-pagev2/)
+## Project Name
+**Project:** Landing Page Project
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Project Description
+**Project Summary**
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+This project aims to give us **real-world scenarios of manipulating the DOM**. The functionality we will be using serves two purposes: to prepare us for *appending dynamically added data to the DOM*, and to show us *how javascript can improve the usability* of an otherwise static site. This project barely touches the surface of what is possible, but it does use some incredibly common events, methods, and logic.
+
+**Technologies**
+In this project I use: <br>
+- HTML
+- CSS
+- JavaScript
+
